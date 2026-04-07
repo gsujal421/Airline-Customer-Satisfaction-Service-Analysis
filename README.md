@@ -58,7 +58,7 @@ This project analyzes passenger feedback data to uncover patterns across service
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/your-dashboard.png)
+![Dashboard](Dashboard/dashboard.png)
 
 ---
 

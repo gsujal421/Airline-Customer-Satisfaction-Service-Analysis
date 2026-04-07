@@ -1,65 +1,72 @@
-# ✈️ Airline Customer Satisfaction 
+# ✈️ Airline Customer Satisfaction & Service Analysis
 
-An end-to-end Business Intelligence project using **Excel, SQL (MySQL), and Tableau** to analyze and visualize passenger satisfaction patterns across various customer segments and flight conditions.
-
----
-
-## 📌 Project Summary
-
-This project analyzes survey data from **1,29,880 airline passengers** to uncover key factors influencing customer satisfaction. The goal is to drive data-informed decisions for improving airline services, loyalty, and operational efficiency.
+Analyzed 129,880+ airline passenger records using SQL and Tableau to identify key drivers of customer satisfaction, service performance gaps, and operational inefficiencies.
 
 ---
 
-## 🔁 ETL Workflow
+## 📊 Problem Statement
 
-- **Extract (Excel):** Cleaned and validated raw data (null removal, type correction, feature formatting)
-- **Transform (SQL):** Performed customer segmentation, delay analysis, and service performance evaluation using MySQL queries
-- **Load (Tableau):** Built an interactive dashboard with KPIs, filters, segment comparison, and service-level insights
+Airlines need to understand what drives customer satisfaction to improve service quality, reduce churn, and enhance overall passenger experience.
 
----
-
-## 📊 Key Insights
-
-- ✈️ **Business Class** satisfaction is 3.4× higher than Economy (69.4% vs. 20.3%)
-- 🛑 **Delays >30 minutes** reduce satisfaction by 23%
-- 📶 **In-flight WiFi** is the lowest-rated service (2.7/5)
-- 🔁 **Returning Business Class customers** show highest loyalty (73% satisfaction)
+This project analyzes passenger feedback data to uncover patterns across service quality, delays, and customer segments.
 
 ---
 
-## 💡 Dashboard Features
+## ⚙️ Approach
 
-- Dynamic filters: Travel Class, Customer Type, Age Group, Delay Category
-- KPIs: Service ratings, satisfaction trends, delay impact
-- Heatmaps & drilldowns for deep analysis
-- Clean UI aligned
+- Cleaned and validated raw dataset using Excel (removed nulls, standardized formats)
+- Performed SQL-based analysis to evaluate customer satisfaction across segments
+- Analyzed delay impact, service quality, and customer behavior patterns
+- Built an interactive Tableau dashboard for KPI tracking and decision-making
 
 ---
 
-## 🚀 Strategic Recommendations
+## 🧠 Key Business Questions Answered
 
-- Upgrade WiFi infrastructure
-- Improve seat comfort in Economy
-- Launch loyalty and onboarding programs for first-time travelers
-- Implement delay reduction initiatives
+- Which travel class delivers the highest customer satisfaction?
+- How do flight delays impact passenger experience?
+- Which service factors drive satisfaction the most?
+- Which customer segments show highest loyalty?
+
+---
+
+## 📈 Key Insights
+
+- Business Class satisfaction is **3.4× higher** than Economy (69.4% vs 20.3%)
+- Delays greater than 30 minutes reduce satisfaction by **23%**
+- In-flight WiFi is the lowest-rated service (2.7/5)
+- Returning Business Class customers show highest loyalty (~73%)
+
+---
+
+## 🎯 Business Recommendations
+
+- Improve service quality in Economy class to reduce satisfaction gap
+- Reduce delays to improve overall customer experience
+- Upgrade in-flight WiFi infrastructure
+- Focus on retention strategies for first-time travelers
+
+---
+
+## 🛠 Tech Stack
+
+- Excel (Data Cleaning)
+- SQL (MySQL)
+- Tableau (Dashboard & Visualization)
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](images/your-dashboard.png)
 
 ---
 
 ## 📁 Project Deliverables
 
-- ✅ Tableau Dashboard (interactive)
-- ✅ SQL Scripts (MySQL)
-- ✅ Cleaned Dataset (CSV)
-- ✅ Project Report PDF
-- ✅ Strategic insights & business recommendations
+- Tableau Dashboard  
+- SQL Scripts  
+- Cleaned Dataset  
+- Business Insights & Recommendations  
 
 ---
-
-## 📬 Contact
-
-**Sujal Gupta**  
-sujalgupta421@gmail.com
-
----
-
-
